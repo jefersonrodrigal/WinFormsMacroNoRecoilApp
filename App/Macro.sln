@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MacroApp", "MacroApp.csproj", "{68789EA2-62A7-42F5-BA23-30151736DB4B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupInstaller", "Installer\SetupInstaller.vdproj", "{5CDE8F49-C47E-4E0E-A682-EB89A60CA9E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68789EA2-62A7-42F5-BA23-30151736DB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68789EA2-62A7-42F5-BA23-30151736DB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68789EA2-62A7-42F5-BA23-30151736DB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68789EA2-62A7-42F5-BA23-30151736DB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDE8F49-C47E-4E0E-A682-EB89A60CA9E4}.Debug|Any CPU.ActiveCfg = Debug
+		{5CDE8F49-C47E-4E0E-A682-EB89A60CA9E4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2592A839-02AA-4E67-99EA-E8D0BE6FA64B}
+	EndGlobalSection
+EndGlobal
